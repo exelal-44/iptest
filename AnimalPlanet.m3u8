@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://haoyunlai.serv00.net/Smartv-1.php?id=AnimalPlanet
+#https://haoyunlai.serv00.net/Smartv-1.php?id=AnimalPlanet
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://198.16.100.186:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
