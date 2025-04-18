@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=301c3742c7feaca2d876fcab914a6efa
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://haoyunlai.serv00.net/Smartv-1.php?id=Ceria
