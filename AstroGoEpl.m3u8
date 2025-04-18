@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://www.pelotas.org:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp1
