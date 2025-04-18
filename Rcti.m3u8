@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://198.16.100.186:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+http://50.7.234.10:8278/Rcti/playlist.m3u8?tid=MF8F2076425120764251&ct=20188&tsum=94e15cc98617168d04700f6ae9fa42b0
 https://haoyunlai.serv00.net/Smartv-1.php?id=Rcti
