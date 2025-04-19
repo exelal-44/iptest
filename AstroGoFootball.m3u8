@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://50.7.234.10:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp4
