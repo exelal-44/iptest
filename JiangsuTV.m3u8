@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://haoyunlai.serv00.net/Smartv-1.php?id=jiangsu_twn
+http://50.7.234.10:8278/jiangsu_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ea0094f15d6c63a4af9f545577e2b25b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://198.16.100.186:8278/jiangsu_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ea0094f15d6c63a4af9f545577e2b25b
